@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>ThansArtifactDemo</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>ThansArtifactDemo</Authors>
+    <Company>ThansArtifactDemo</Company>
+    <Product>ThansArtifactDemo</Product>
+    <Description>This is just a demo for nuget package</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
